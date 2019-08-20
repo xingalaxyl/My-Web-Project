@@ -1,0 +1,153 @@
+.header {
+	height: 60px;
+	line-height: 60px;
+	background-color: #262626;
+}
+.header .logo {
+	width: 260px;
+	height: 60px;
+	line-height: 60px;
+	/*padding-top: 9px;
+	padding-bottom: 8px;*/
+}
+.header .nav li {
+	float: left;
+	padding-right: 59px;
+}
+.login {
+	padding-right: 154px;
+}
+.login input {
+	margin-left: 6px;
+	width: 41px;
+	height: 22px;
+	border: 2px solid #ff6400;
+	background-color: transparent;
+	color: #ff6400;
+}
+.login .zhu input {
+	background-color: #ff6400;
+	color: #000000;
+}
+.banner {
+	height: 440px;
+	background: url(../images/banner.jpg) center;
+}
+.main-1 {
+	padding: 79px 0;
+	background-color: #fff;
+}
+.main-1 .product {
+	padding: 0 50px;
+}
+.main-1 li {
+	float: left;
+	margin-right: 22px;
+	text-align: center;
+	width: 352px;
+}
+.main-1 li h4 {
+	font-size: 28px;
+	color: #000;
+	height: 42px;
+}
+.main-1 .mr0 {
+	margin-right: 0;
+}
+.main-1 .w {
+	position: relative;
+}
+
+.main-1 .arrow-l {
+	position: absolute;
+	left: 12px;
+	top: 102px;
+	width: 29px;
+	height: 63px;
+	background: url(../images/L.jpg) no-repeat;
+}
+.main-1 .arrow-r {
+	position: absolute;
+	right: 12px;
+	top: 102px;
+	width: 29px;
+	height: 63px;
+	background: url(../images/R.jpg) no-repeat;
+}
+.ui {
+	margin-top: 77px;
+	margin-bottom: 71px;
+}
+.ui li {
+	float: left;
+	margin-right: 22px;
+	width: 383px;
+	background-color: #fff;
+}
+.ui h3 , .main-3 h3 {
+	height: 48px;
+	font-size: 28px;
+	color: #000;
+}
+.ui li a {
+	display: block;
+}
+.ui li .txt {
+	padding: 23px 14px 8px 10px;
+	color: #6e6e6e;
+}
+.ui .txt h4 {
+	font-size: 24px;
+}
+.ui .txt span {
+	float: right;
+	font-size: 18px;
+	color: #ff6503;
+}
+.ui .txt p:nth-of-type(1) {
+	font-size: 14px;
+	color: #989898;
+	height: 48px;
+}
+.ui .txt p:nth-of-type(2) {
+	float: right;
+}
+.ui .mr0 {
+	margin-right: 0;
+}
+.main-3 {
+	background-color: #fff;
+}
+.main-3 .ui {
+	padding-top: 77px;
+	padding-bottom: 141px;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.footer {
+	padding-top: 32px;
+	background: url(../images/dibg.jpg);
+	height: 220px;
+}
+.footer dl {
+	float: left;
+	width: 190px;
+}
+.footer dt {
+	height: 38px;
+	font-size: 20px;
+	color: #fff;
+}
+.footer dd {
+	height: 26px;
+	font-size: 16px;
+	color: #aebece;
+}
+.copyr {
+	padding-top: 17px;
+}
+.copyr > p {
+	font-size: 16px;
+	color: #aebece;
+	top: 10px;
+}

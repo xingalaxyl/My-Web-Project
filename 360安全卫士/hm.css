@@ -1,0 +1,45 @@
+.top {
+	height: 101px;
+	line-height: 101px;
+	background: url(images/nav.jpg) no-repeat;
+
+}
+.div-360 img {
+	float: left;
+	margin-top: 34px;
+	margin-left: 66px;
+	margin-right: 152px;
+}
+.div-nav span {
+	font-size: 18px;
+	color: #fff;
+	margin: 0 12px;
+}
+.div-nav .hot-1 {
+	width: 45px;
+	height: 20px;
+	background: url(images/base_z_7b2c929.png) no-repeat left -70px;
+	position: absolute;
+	top: 20px;
+	left: 527px;
+}
+.div-nav .hot-2 {
+	width: 45px;
+	height: 20px;
+	background: url(images/base_z_7b2c929.png) no-repeat  left -93px;
+	position: absolute;
+	top: 20px;
+	left: 626px;
+}
+.div-title {
+	height: 38px;
+	line-height: 38px;
+	background: #e5e8e8;
+	padding-left: 106px;
+}
+.div-banner {
+	padding-left: 69px;
+}
+.banner-left div {
+	height: 65px;
+}

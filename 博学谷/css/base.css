@@ -1,0 +1,47 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	color: #aaaaaa;
+	background-color: #f6f6f6;
+	font-size: 14px;
+}
+a {
+	color: #cccccc;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #ffffff;
+}
+li {
+	list-style: none;
+}
+input , textarea{
+	outline: none;
+	border: 0;
+}
+textarea {
+	resize: none;
+}
+.w {
+	width: 1200px;
+	margin: 0 auto;
+}
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+.clearfix:before, .clearfix:after {
+	content: '';
+	display: table;
+}
+.clearfix:after {
+	clear: both;
+}
+.clearfix {
+	*zoom: 1;
+}

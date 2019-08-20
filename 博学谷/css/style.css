@@ -1,0 +1,141 @@
+.header .top {
+	height: 30px;
+	line-height: 30px;
+	background-color: #fff;
+}
+.nav {
+	height: 80px;
+	background-color: #2e3340;
+}
+.nav .logo {
+	width: 208px;
+	height: 30px;
+	line-height: 30px;
+}
+.nav .logo img{
+	margin-top: 17px;
+}
+.nav .nav-r li {
+	float: left;
+	height: 80px;
+	line-height: 80px;
+	padding-right: 19px;
+}
+.nav .nav-r a {
+	font-size: 18px;
+}
+.w .index {
+	height: 56px;
+	line-height: 56px;
+	color: #323846;
+}
+.w .banner {
+	height: 200px;
+	background: url(../images/11.jpg) no-repeat;
+}
+.main {
+	margin-bottom: 53px;
+}
+.main li {
+	float: left;
+	margin-right: 10px;
+}
+.w .main {
+	padding: 87px 300px 52px 44px;
+	background-color: #fff;
+}
+.main .pro {
+	border-left: 1px solid #5b606b;
+	padding-left: 20px;
+}
+.w .main h3 {
+	font-size: 24px;
+	height: 57px;
+	color: #484c58;
+}
+/*.main .fl .img {
+	height: 174px;
+}*/
+.main li div {
+	background-color: #f6f6f6;
+	padding: 18px 10px;
+}
+.main li h4 {
+	height: 32px;
+	color: #323846;
+}
+.main li h4+p span{
+	float: right;
+}
+.main .fl .mr0 {
+	margin-right: 0;
+}
+.main .text {
+	text-align: center;
+	margin-top: 88px;
+	font-size: 14px;
+}
+.main .text a {
+	color: #323846;
+}
+.footer , .boo{
+	padding-top: 35px;
+	padding-bottom: 44px;
+	background-color: #2e3340;
+}
+.footer .help dl {
+	width: 145px;
+	float: left;
+}
+.footer .help dt {
+	height: 46px;
+	font-size: 16px;
+	color: #fff;
+}
+.footer .help dd {
+	height: 27px;
+	color: #b0bcd0;
+}
+.footer .er {
+	height: 192px;
+	border-right: 1px solid #48526c;
+}
+.footer .er img {
+	width: 121px;
+	height: 121px;
+}
+.footer .er .fl {
+	width: 121px;
+	margin-right: 56px;
+}
+.footer .er .fl h3 {
+	height: 44px;
+	text-align: center;
+}
+.footer .link {
+	position: relative;
+	margin-left: 56px;
+	padding-top: 100px;
+}
+.footer .icon,.footer .icon2, .footer .icon3{
+	position: absolute;
+	width: 55px;
+	height: 55px;
+	margin-right: 25px;
+	top: 10px;
+	left: 10px;
+	background: url(../images/icon.png) no-repeat -74px -479px;
+}
+.footer .icon2{
+	top: 10px;
+	left: 90px;
+	background-position: 0px -383px;
+}
+.footer .icon3 {
+	top: 10px;
+	left: 170px;
+	background-position: -77px -380px;
+}
+.boo .w {
+	text-align: center;
+}

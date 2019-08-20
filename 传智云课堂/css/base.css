@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #f2f2f2;
+    /*font-size: 16px;*/
+}
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+li {
+    list-style: none;
+}
+input {
+    outline: 0;
+    border: 0;
+}
+textarea {
+    resize: none;
+}
+清除了图片的边框和底部缝隙
+img {
+    border: 0;
+    vertical-align: middle;
+}
+h1 , h2 , h3 , h4 ,h5 , h6 {
+    font-weight: 400px;
+}
+.fl {
+    float: left;
+}
+.fr {
+    float: right;
+}
+.clearfix:after {
+    content: "";
+    display: block;
+    height: 0;
+    visibility: hidden;
+    clear: both;
+}
+.clearfix {
+    *zoom: 1;
+}
+.w {
+    width: 1200px;
+    margin: 0 auto;
+}
